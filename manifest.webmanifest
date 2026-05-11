@@ -1,0 +1,17 @@
+{
+  "name": "Polestar laddkalkylator",
+  "short_name": "Laddkalkylator",
+  "description": "Räkna ut laddkostnad för Polestar 2.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eef2ee",
+  "theme_color": "#17211c",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
